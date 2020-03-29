@@ -9,8 +9,7 @@ plugins:
 permalink: /:year/:month/:day/:title/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -28,22 +27,22 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
-  # behance: your_username
+social_media:
+  behance: imoizuddin
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
+  hackerrank: moizcodes
+  instagram: imoizuddin
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: imoizuddin
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: imoizuddin
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: http://imoizuddin.wordpress.com
   # youtube: your_username
 
 topics:
